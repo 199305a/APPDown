@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.96/web/CTAnnotationProject.ipa</string>
+					<string>https://raw.githubusercontent.com/199305a/APPDown/master/CTAnnotationProject.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
